@@ -15,7 +15,7 @@
 - 🎓 4th-year Software Engineering student at Istinye University  
 - 🎮 Building games with **Unity & C#** and mobile puzzle experiences with **Flutter**  
 - 🧠 Interested in **RNG design**, **DDA (dynamic difficulty adjustment)**, and puzzle game systems  
-- 🌍 Location: Türkiye  
+- 🌍 Location: Besiktas, Istanbul
 - 🌐 Portfolio: **https://www.aykuttakkus.com**
 
 ---
@@ -41,7 +41,6 @@
 
 ### 🗄️ Data & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
