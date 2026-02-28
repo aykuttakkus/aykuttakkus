@@ -46,23 +46,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📌 Featured Projects
-- 🎯 **Polygon Racer (Unity)** — Low-poly arcade racing game (Android / iOS / WebGL)  
-  Repo: https://github.com/aykuttakkus/polygon-racer-unity
-
-- 🏹 **Ball Launcher (Unity)** — Physics-based slingshot game (Android / iOS / WebGL)  
-  Repo: https://github.com/aykuttakkus/ball-launcher-unity
-
-- 🧠 **Hafızai (Flutter)** — Memory-based puzzle game on a 5×5 dice grid  
-  Repo: https://github.com/aykuttakkus/hafizai_app
-
-- 🥊 **UFC Website (Full-Stack)** — React + Node.js + MongoDB, custom scraping pipeline + REST API  
-  Repo: https://github.com/aykuttakkus/ufc_website
-
----
-
-## 🌐 Connect
-- LinkedIn: (https://www.linkedin.com/in/aykuttakkus/)
-- Website/Portfolio: (www.aykuttakkus.com)
-- Mail: (aykutk.akkus@gmail.com)
